@@ -1,6 +1,8 @@
 # Research-Papers
 A list of recent papers regarding deep learning, reinforcement learning, GANs.
 
+[GAN Github](https://github.com/YadiraF/GAN)
+
 ### 2017
 1. [Learning with Opponent-Learning Awareness](https://arxiv.org/pdf/1709.04326.pdf). Jakob N. Foerster et. al. OpenAI, University of Oxford, UC Berkeley, CMU. 
 2. [Towards Proving the Adversarial Robustness of Deep Neural Networks](https://arxiv.org/pdf/1709.02802.pdf). Guy Katz et. al. Standford University.
