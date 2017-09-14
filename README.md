@@ -25,14 +25,11 @@ A list of recent papers regarding deep learning, reinforcement learning, GANs.
 21. [Compressing Neural Networks with the Hashing Trick](https://arxiv.org/pdf/1504.04788.pdf). Wenlin Chen et al. Nvidia, UWash St. Louis. (2015).
 22. [Geometric GAN](https://arxiv.org/pdf/1705.02894.pdf). Jae Hyun Lim et al. KAIST. May 2017.
 23. [Depth Estimation from Single Image Using CNN-Residual Network](http://cs231n.stanford.edu/reports/2017/pdfs/203.pdf). Xiaobai Ma, Standford. (2017)
+24. [Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space](https://arxiv.org/pdf/1612.00005.pdf). Yoshua Bengio et al. (April 2017)
 
 
 
 
-
-
-
-
-### Drone Industry:
+### Quadrotor Controls:
 1. [Design of Decoupling and Nonlinear PD Controller for Cruise Control of a Quadrotor](https://arxiv.org/pdf/1708.04584.pdf). Aug 2017.
 2. 
