@@ -17,17 +17,20 @@ A list of recent papers regarding deep learning, reinforcement learning, GANs.
 13. [Recent Advances in Convolutional Neural Networks](https://arxiv.org/pdf/1512.07108.pdf). Jiuxiang Gu. NTU, Singapore.
 14. [Neural Style Transfer: A Review](https://arxiv.org/pdf/1705.04058.pdf). Yongcheng Jing. Microsoft, Arizona State University.
 15. [SIFT Meets CNN: A Decade Survey of Instance Retrieval](https://arxiv.org/pdf/1608.01807.pdf). Liang Zheng et al. UTS, Australia.
-16. [A Taxonomy of Deep Convolutional Neural Nets for Computer Vision](https://arxiv.org/pdf/1601.06615.pdf). Suraj Srinivas et al. IISc Bangalore, 2016.
-17. [Survey on the attention based RNN model and its applications in computer vision](https://arxiv.org/pdf/1601.06823.pdf). Feng Wang. Delft.
-18. **[Coupled Generative Adversarial Networks](https://arxiv.org/pdf/1606.07536.pdf). Ming-Yu Liu et al. Mitsubishi Electric Research Labs (MERL, 2016).**
-19. **[Semantic Segmentation using Adversarial Networks](https://arxiv.org/pdf/1611.08408.pdf). Pauline Luc. Facebook AI Research. (2016)**
-20. **[Improved Techniques for Training GANs](https://arxiv.org/pdf/1606.03498.pdf). Ian Goodfellow. OpenAI. [Code](https://github.com/openai/improved-gan). (2016).**
-21. [Compressing Neural Networks with the Hashing Trick](https://arxiv.org/pdf/1504.04788.pdf). Wenlin Chen et al. Nvidia, UWash St. Louis. (2015).
-22. [Geometric GAN](https://arxiv.org/pdf/1705.02894.pdf). Jae Hyun Lim et al. KAIST. May 2017.
-23. [Depth Estimation from Single Image Using CNN-Residual Network](http://cs231n.stanford.edu/reports/2017/pdfs/203.pdf). Xiaobai Ma, Standford. (2017)
-24. [Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space](https://arxiv.org/pdf/1612.00005.pdf). Yoshua Bengio et al. (April 2017)
-25. **[Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf). Martin Arjovsky et al. Courant Institute of Mathematical Sciences, Facebook AI Research. March 2017.**
+16. [Survey on the attention based RNN model and its applications in computer vision](https://arxiv.org/pdf/1601.06823.pdf). Feng Wang. Delft.
+17. [Geometric GAN](https://arxiv.org/pdf/1705.02894.pdf). Jae Hyun Lim et al. KAIST. May 2017.
+18. [Depth Estimation from Single Image Using CNN-Residual Network](http://cs231n.stanford.edu/reports/2017/pdfs/203.pdf). Xiaobai Ma, Standford. (2017)
+19. [Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space](https://arxiv.org/pdf/1612.00005.pdf). Yoshua Bengio et al. (April 2017)
+20. **[Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf). Martin Arjovsky et al. Courant Institute of Mathematical Sciences, Facebook AI Research. March 2017.**
 
+### 2016:
+1. [A Taxonomy of Deep Convolutional Neural Nets for Computer Vision](https://arxiv.org/pdf/1601.06615.pdf). Suraj Srinivas et al. IISc Bangalore, 2016.
+2. **[Coupled Generative Adversarial Networks](https://arxiv.org/pdf/1606.07536.pdf). Ming-Yu Liu et al. Mitsubishi Electric Research Labs (MERL, 2016).**
+3. **[Semantic Segmentation using Adversarial Networks](https://arxiv.org/pdf/1611.08408.pdf). Pauline Luc. Facebook AI Research. (2016)**
+4. **[Improved Techniques for Training GANs](https://arxiv.org/pdf/1606.03498.pdf). Ian Goodfellow. OpenAI. [Code](https://github.com/openai/improved-gan). (2016).**
+
+### 2015:
+1. [Compressing Neural Networks with the Hashing Trick](https://arxiv.org/pdf/1504.04788.pdf). Wenlin Chen et al. Nvidia, UWash St. Louis. (2015).
 
 
 ### Quadrotor Controls:
