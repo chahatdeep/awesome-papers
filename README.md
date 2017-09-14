@@ -26,7 +26,7 @@ A list of recent papers regarding deep learning, reinforcement learning, GANs.
 22. [Geometric GAN](https://arxiv.org/pdf/1705.02894.pdf). Jae Hyun Lim et al. KAIST. May 2017.
 23. [Depth Estimation from Single Image Using CNN-Residual Network](http://cs231n.stanford.edu/reports/2017/pdfs/203.pdf). Xiaobai Ma, Standford. (2017)
 24. [Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space](https://arxiv.org/pdf/1612.00005.pdf). Yoshua Bengio et al. (April 2017)
-
+25. **[Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf). Martin Arjovsky et al. Courant Institute of Mathematical Sciences, Facebook AI Research. March 2017.**
 
 
 
