@@ -3,6 +3,7 @@ A list of recent papers regarding deep learning, reinforcement learning, GANs.
 
 [GAN Github](https://github.com/YadiraF/GAN)
 
+## Deep Learning:
 ### 2017
 1. [Learning with Opponent-Learning Awareness](https://arxiv.org/pdf/1709.04326.pdf). Jakob N. Foerster et. al. OpenAI, University of Oxford, UC Berkeley, CMU. 
 2. [Towards Proving the Adversarial Robustness of Deep Neural Networks](https://arxiv.org/pdf/1709.02802.pdf). Guy Katz et. al. Standford University.
@@ -34,7 +35,8 @@ A list of recent papers regarding deep learning, reinforcement learning, GANs.
 ### 2015:
 1. [Compressing Neural Networks with the Hashing Trick](https://arxiv.org/pdf/1504.04788.pdf). Wenlin Chen et al. Nvidia, UWash St. Louis. (2015).
 
+***
 
-### Quadrotor Controls:
+## Quadrotor Controls:
 1. [Design of Decoupling and Nonlinear PD Controller for Cruise Control of a Quadrotor](https://arxiv.org/pdf/1708.04584.pdf). Aug 2017.
 2. 
