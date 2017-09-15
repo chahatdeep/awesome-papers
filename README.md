@@ -39,4 +39,22 @@ A list of recent papers regarding deep learning, reinforcement learning, GANs an
 
 ## Quadrotor Controls:
 1. [Design of Decoupling and Nonlinear PD Controller for Cruise Control of a Quadrotor](https://arxiv.org/pdf/1708.04584.pdf). Aug 2017.
-2. 
+2. [Modelling and control of quadcopter](http://sal.aalto.fi/publications/pdf-files/eluu11_public.pdf), Teppo Luukkonen. (2011)
+
+
+### LQR Controller:
+1. [PID, LQR and LQR-PID on a quadcopter platform](http://ieeexplore.ieee.org/document/6572698/), Lucas M. Argentim et al. (2013)
+2. [Multi-Agent Testbed development, modelling and control of Quadrotor UAVs](http://kth.diva-portal.org/smash/get/diva2:551115/FULLTEXT01.pdf). p.p. 27-31, KTH Thesis. (2012)
+3. [Comparison of PID and LQR controllers on a quadrotor helicopter](http://www.naun.org/main/UPress/saed/2015/a442014-074.pdf), Demet Canpolat Tosun et al. (2015)
+4. []()
+5. []()
+6. []()
+[LQR- MIT Reference, A Good Theoritical Proof](https://ocw.mit.edu/courses/mechanical-engineering/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/lecture-notes/lec19.pdf), MIT. 
+
+#### Quadrotor Hacks:
+1. [Oscar Liang: Tuning a PID](https://oscarliang.com/quadcopter-pid-explained-tuning/)
+2. [HOW TO TUNE A QUADCOPTER PID LOOP: THE SIMPLE WAY](https://myfirstdrone.com/tutorials/how-to-tune-a-quadcopter/)
+3. []()
+
+#### Quadrotor Simulators:
+1. [LQR Quadrotor MATLAB](https://github.com/aarkebauer/QuadrotorLQR)
