@@ -50,6 +50,15 @@ A list of recent papers regarding deep learning, reinforcement learning, GANs an
 5. []()
 6. []()
 [LQR- MIT Reference, A Good Theoritical Proof](https://ocw.mit.edu/courses/mechanical-engineering/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/lecture-notes/lec19.pdf), MIT. 
+###### Murray References(Caltech):
+- [LQR- Caltech Reference, A quick Guide to LQR](https://www.cds.caltech.edu/~murray/courses/cds110/wi06/lqr.pdf), Caltech (Murray), Control and Dynamical Systems (CDS 110b)
+- [Linear Quadratic Regulators: Proof (Slides)](http://www.cds.caltech.edu/~murray/courses/cds110/wi08/L3-1_lqr.pdf)
+- [Optimal Control](http://www.cds.caltech.edu/~murray/courses/cds110/wi08/L2-1_optimal.pdf)
+- **[Optimal Control Theory: LQR](http://www.cds.caltech.edu/~murray/courses/cds110/wi08/optimal_14Jan08.pdf)**
+- [Murray Website Reference](http://www.cds.caltech.edu/~murray/wiki/index.php/CDS_110b:_Optimal_Control)
+- [A Review of Online Control Customization via Optimization-Based Control](http://www.cds.caltech.edu/~murray/preprints/mur+03-sec.pdf)
+
+[LQR Inverted Pendulum Simulator](https://github.com/SwapUNaph/LQR-control-model)
 
 #### Quadrotor Hacks:
 1. [Oscar Liang: Tuning a PID](https://oscarliang.com/quadcopter-pid-explained-tuning/)
@@ -58,3 +67,4 @@ A list of recent papers regarding deep learning, reinforcement learning, GANs an
 
 #### Quadrotor Simulators:
 1. [LQR Quadrotor MATLAB](https://github.com/aarkebauer/QuadrotorLQR)
+2. []()
