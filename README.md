@@ -1,5 +1,5 @@
 # Research-Papers
-A list of recent papers regarding deep learning, reinforcement learning, GANs.
+A list of recent papers regarding deep learning, reinforcement learning, GANs and Quadrotor Control Theory.
 
 [GAN Github](https://github.com/YadiraF/GAN)
 
