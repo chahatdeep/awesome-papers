@@ -40,6 +40,12 @@ A list of recent papers regarding deep learning, reinforcement learning, GANs an
 ## Quadrotor Controls:
 1. [Design of Decoupling and Nonlinear PD Controller for Cruise Control of a Quadrotor](https://arxiv.org/pdf/1708.04584.pdf). Aug 2017.
 2. [Modelling and control of quadcopter](http://sal.aalto.fi/publications/pdf-files/eluu11_public.pdf), Teppo Luukkonen. (2011)
+3. [Aggressive Quadrotor Flight through Narrow Gaps with Onboard Sensing and Computing using Active Vision](http://rpg.ifi.uzh.ch/doczercs/ICRA17_Falanga.pdf), Falanga, David Scaramuzza et al, (ICRA 2017). [Supplementary video](http://rpg.ifi.uzh.ch/aggressive_flight.html)
+4. N. Michael, D. Mellinger, Q. Lindsey, and V. Kumar, “The GRASP multiple micro UAV testbed,” IEEE Robot. Autom. Mag., vol. 17, no. 3, pp. 56–65, Sep. 2010.
+5. M. Faessler, F. Fontana, C. Forster, and D. Scaramuzza, “Automatic reinitialization and failure recovery for aggressive flight with a monocular vision-based quadrotor,” in Proc. IEEE Int. Conf. Robot. Autom., 2015, pp. 1722–1729.
+6.  D. Mellinger, N. Michael, and V. Kumar, “Trajectory generation and control for precise aggressive maneuvers with quadrotors,” Int. J. Robot. Res., vol. 31, no. 5, pp. 664–674, 2012.
+7. M. Hehn and R. D’Andrea, “A frequency domain iterative learning algorithm for high-performance, periodic quadrocopter maneuvers,” J. Mechatronics, vol. 24, no. 8, pp. 954–965, 2014.
+8. 
 
 
 ### LQR Controller:
