@@ -1,7 +1,7 @@
 # Research-Papers
 A list of recent papers regarding deep learning, reinforcement learning, GANs and Quadrotor Control Theory.
 
-+ [ ] [GAN Github](https://github.com/YadiraF/GAN) ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
++ [ ] [GAN Github](https://github.com/YadiraF/GAN) ![alt text](https://github.com/chahatdee/research-papers/raw/master/src/common/Logo/tf.jpg "Logo Title Text 1")
 
 ## Deep Learning:
 ### 2017
