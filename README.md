@@ -1,7 +1,12 @@
 # Awesome-Papers
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A list of recent papers regarding deep learning, reinforcement learning, GANs and Quadrotor Control Theory.
+
+## GitHub Implementations:
 + [ ] [GAN Github](https://github.com/YadiraF/GAN)<img src="Logo/tf.jpg" src="https://www.google.co.in/" width="36" height="36" />
+
+
+A list of recent papers regarding deep learning, reinforcement learning, GANs and Quadrotor Control Theory.
 
 ## Latest:
 - [x] [GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bian_GMS_Grid-based_Motion_CVPR_2017_paper.pdf) [Code: C++/Python/MATLAB](https://github.com/JiawangBian/GMS-Feature-Matcher)
