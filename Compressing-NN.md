@@ -812,4 +812,4 @@ at INT8 deep learning operations than other FPGA DSP architectures"
 - intro: collection of works aiming at reducing model sizes or the ASIC/FPGA accelerator for machine learning
 - github: [https://github.com/ZhishengWang/Embedded-Neural-Network](https://github.com/ZhishengWang/Embedded-Neural-Network)
 
-*Source: [hndong1587.github.io](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-acceleration-model-compression.md}*
+*Source: [hndong1587.github.io](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-acceleration-model-compression.md)*
