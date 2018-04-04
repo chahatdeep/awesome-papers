@@ -5,6 +5,6 @@
 - Caffe 2: [<img src="logo/caffe2-logo.png" width="48" height="48" />]()
 - Matlab/Matconvnet: [<img src="logo/matlab-Logo.png" width="24" height="24" />]()
 - Theano: [<img src="logo/theano-logo.png" height="48" />]()
-- Torch: [<img src="logo/torch-logo.png" height="48" />]()
+- Torch: [<img src="logo/torch-logo.png" height="36" />]()
 
 ***
