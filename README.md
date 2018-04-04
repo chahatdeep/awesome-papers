@@ -4,10 +4,10 @@
 
 
 ### [Compression](Compressing-NN.md)
-
 ### [GitHub Implementations](Github-Implementations.md)
-+ [ ] [GAN Github](https://github.com/YadiraF/GAN)<img src="Logo/tf.jpg" src="https://www.google.co.in/" width="36" height="36" />
 + [x] [handong-github](https://github.com/handong1587/handong1587.github.io/tree/e5dfaff2898076b7a1a5a0d28a9ec9a0cd182c68/_posts/deep_learning)
+
+***
 
 A list of recent papers regarding deep learning, reinforcement learning, GANs and Quadrotor Control Theory.
 
