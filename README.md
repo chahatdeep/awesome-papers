@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## GitHub Implementations:
+### [GitHub Implementations](Github-Implementations.md)
 + [ ] [GAN Github](https://github.com/YadiraF/GAN)<img src="Logo/tf.jpg" src="https://www.google.co.in/" width="36" height="36" />
 
 
